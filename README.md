@@ -1,2 +1,2 @@
 # Codebasics-Python
-Classes
+Classes for Python codebasics
